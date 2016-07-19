@@ -6,9 +6,9 @@ color:
   saturation: 0.01775497291237116
   rhythmicContrast: 0.17262739082798362
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
 name: Drawmatic
